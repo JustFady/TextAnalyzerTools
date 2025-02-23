@@ -1,0 +1,32 @@
+{
+  "cat_n": {
+      "definition": "A small domesticated carnivorous mammal with soft fur.",
+      "part_of_speech": "noun",
+      "example": "The cat slept on the couch."
+  },
+  "cat_v": {
+      "definition": "To act or move stealthily like a cat (rare).",
+      "part_of_speech": "verb",
+      "example": "He catted around the house, unnoticed."
+  },
+  "cat_adj": {
+      "definition": "Describing something as related to or resembling a cat.",
+      "part_of_speech": "adjective",
+      "example": "Her cat-like reflexes helped her catch the ball."
+  },
+  "cat_adv": {
+      "definition": "In a manner resembling a cat.",
+      "part_of_speech": "adverb",
+      "example": "He moved cat-like through the room."
+  },
+  "cat_conj": {
+      "definition": "Used to join or compare ideas related to cats (rare).",
+      "part_of_speech": "conjunction",
+      "example": "Cat speaking, her agility was unmatched."
+  },
+  "cat_prep": {
+      "definition": "Referring to something relative to a cat (rare).",
+      "part_of_speech": "preposition",
+      "example": "The toy was placed by the cat on the couch."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "chair_n": {
+      "definition": "A seat for one person, typically with four legs and a back.",
+      "part_of_speech": "noun",
+      "example": "He sat on the chair."
+  },
+  "chair_v": {
+      "definition": "To preside over a meeting or event.",
+      "part_of_speech": "verb",
+      "example": "She will chair the conference."
+  },
+  "chair_adj": {
+      "definition": "Related to or resembling a chair.",
+      "part_of_speech": "adjective",
+      "example": "The chair-shaped sculpture was striking."
+  },
+  "chair_adv": {
+      "definition": "In a manner related to or resembling a chair.",
+      "part_of_speech": "adverb",
+      "example": "He sat chair-like, upright and attentive."
+  },
+  "chair_conj": {
+      "definition": "Used to compare ideas related to chairs (rare).",
+      "part_of_speech": "conjunction",
+      "example": "Chair speaking, comfort is key to long meetings."
+  },
+  "chair_prep": {
+      "definition": "Suggesting position relative to a chair (rare).",
+      "part_of_speech": "preposition",
+      "example": "He stood by the chair waiting for her."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "phone_n": {
+      "definition": "A device for communication over distances.",
+      "part_of_speech": "noun",
+      "example": "I answered the phone."
+  },
+  "phone_v": {
+      "definition": "To contact someone via phone.",
+      "part_of_speech": "verb",
+      "example": "I will phone her tomorrow."
+  },
+  "phone_adj": {
+      "definition": "Related to or resembling a phone.",
+      "part_of_speech": "adjective",
+      "example": "The phone-like gadget was amazing."
+  },
+  "phone_adv": {
+      "definition": "In a manner resembling the use of a phone.",
+      "part_of_speech": "adverb",
+      "example": "She spoke phone-like, hurriedly answering calls."
+  },
+  "phone_conj": {
+      "definition": "Used to compare ideas related to phones (rare).",
+      "part_of_speech": "conjunction",
+      "example": "Phone speaking, we should call her now."
+  },
+  "phone_prep": {
+      "definition": "Referring to position relative to a phone (rare).",
+      "part_of_speech": "preposition",
+      "example": "He placed the charger by the phone."
+  }
+}

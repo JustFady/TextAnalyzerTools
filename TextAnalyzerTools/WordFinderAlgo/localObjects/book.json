@@ -1,0 +1,32 @@
+{
+  "book_n": {
+      "definition": "A set of written or printed pages bound together.",
+      "part_of_speech": "noun",
+      "example": "I borrowed a book from the library."
+  },
+  "book_v": {
+      "definition": "To arrange for someone to have a seat or place on a transport or service.",
+      "part_of_speech": "verb",
+      "example": "I need to book a flight."
+  },
+  "book_adj": {
+      "definition": "Related to books or written works.",
+      "part_of_speech": "adjective",
+      "example": "He had a bookish appearance."
+  },
+  "book_adv": {
+      "definition": "In a manner related to books or study.",
+      "part_of_speech": "adverb",
+      "example": "He studied bookishly all night."
+  },
+  "book_conj": {
+      "definition": "Used to link or compare ideas in the context of written work (rare).",
+      "part_of_speech": "conjunction",
+      "example": "Book and study speaking, both are essential for success."
+  },
+  "book_prep": {
+      "definition": "Referring to something relative to a book (rare).",
+      "part_of_speech": "preposition",
+      "example": "She sat by the book on the table."
+  }
+}

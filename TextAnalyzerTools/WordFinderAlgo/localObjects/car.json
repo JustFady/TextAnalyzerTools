@@ -1,0 +1,32 @@
+{
+  "car_n": {
+      "definition": "A road vehicle with four wheels, used for transportation.",
+      "part_of_speech": "noun",
+      "example": "I parked the car in the garage."
+  },
+  "car_v": {
+      "definition": "To travel in or use a car.",
+      "part_of_speech": "verb",
+      "example": "We carred across the country."
+  },
+  "car_adj": {
+      "definition": "Related to or resembling a car.",
+      "part_of_speech": "adjective",
+      "example": "The car-shaped balloon was fun."
+  },
+  "car_adv": {
+      "definition": "In a manner related to cars or transportation.",
+      "part_of_speech": "adverb",
+      "example": "He drove car-like down the highway."
+  },
+  "car_conj": {
+      "definition": "Used to compare or join ideas regarding cars (rare).",
+      "part_of_speech": "conjunction",
+      "example": "Car speaking, electric vehicles are the future."
+  },
+  "car_prep": {
+      "definition": "Referring to position relative to a car (rare).",
+      "part_of_speech": "preposition",
+      "example": "She stood by the car, waiting."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "bottle_n": {
+      "definition": "A container, typically made of glass or plastic, with a narrow neck.",
+      "part_of_speech": "noun",
+      "example": "He drank a bottle of water."
+  },
+  "bottle_v": {
+      "definition": "To put a liquid into a bottle.",
+      "part_of_speech": "verb",
+      "example": "We need to bottle the juice."
+  },
+  "bottle_adj": {
+      "definition": "Related to or resembling a bottle.",
+      "part_of_speech": "adjective",
+      "example": "The bottle-shaped container was huge."
+  },
+  "bottle_adv": {
+      "definition": "In a manner that involves bottling or related to bottles.",
+      "part_of_speech": "adverb",
+      "example": "The company worked bottle-like to prepare for the festival."
+  },
+  "bottle_conj": {
+      "definition": "Used to compare ideas regarding bottling (rare).",
+      "part_of_speech": "conjunction",
+      "example": "Bottle speaking, we must work fast to meet the deadline."
+  },
+  "bottle_prep": {
+      "definition": "Suggesting position relative to a bottle (rare).",
+      "part_of_speech": "preposition",
+      "example": "He placed the wine by the bottle on the shelf."
+  }
+}
